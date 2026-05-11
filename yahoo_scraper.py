@@ -5,8 +5,8 @@ from datetime import datetime, timezone, timedelta
 
 # ========== Yahoo!ショッピング設定 ==========
 # 後で取得するキー（今はダミー）
-YAHOO_CLIENT_ID = "あなたのClient IDを後で入力"
-AFFILIATE_ID = "バリューコマースのアフィリエイトIDを後で入力"
+YAHOO_CLIENT_ID = "dmVyPTIwMjUwNyZpZD11akdBSk1GWVFzJmhhc2g9WlRabVlUVm1NV0UzTkRGaE5EVmpNZw"
+AFFILIATE_ID = "3770335_892610495"
 
 KEYWORDS = [
     "ふるさと納税 肉",
